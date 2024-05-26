@@ -1,0 +1,6 @@
+0 Over Ripe Apple
+1 Over Ripe Banana
+2 Ripe Apple
+3 Ripe Banana
+4 Unripe Apple
+5 Unripe Banana
